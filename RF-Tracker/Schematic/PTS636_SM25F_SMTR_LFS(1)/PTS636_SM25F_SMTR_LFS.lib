@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# PTS636_SM25F_SMTR_LFS
+#
+DEF PTS636_SM25F_SMTR_LFS J 0 40 Y Y 1 L N
+F0 "J" 750 300 50 H V L BNN
+F1 "PTS636_SM25F_SMTR_LFS" 750 200 50 H V L BNN
+F2 "PTS636SM25FSMTRLFS" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "PTS636 SM25F SMTR LFS" 0 0 50 H I L BNN "Arrow_Part_Number"
+F5 "https://www.arrow.com/en/products/pts636-sm25f-smtr-lfs/ck" 0 0 50 H I L BNN "Arrow_Price-Stock"
+F6 "https://www.mouser.co.uk/ProductDetail/CK/PTS636-SM25F-SMTR-LFS?qs=vLWxofP3U2wcBTQSwfMFOw%3D%3D" 0 0 50 H I L BNN "Mouser_Price-Stock"
+F7 "PTS636 SM25F SMTR LFS" 0 0 50 H I L BNN "Manufacturer_Part_Number"
+F8 "2.7mm" 0 0 50 H I L BNN "Height"
+F9 "611-PTS636SM25FSMTRL" 0 0 50 H I L BNN "Mouser_Part_Number"
+F10 "C & K COMPONENTS" 0 0 50 H I L BNN "Manufacturer_Name"
+F11 "Tactile Switches Tact 50mA 12VDC, 6.0x3.5, 2.5mm H, 180gf, F leads, No ground pin, White Actuator" 0 0 50 H I L BNN "Description"
+DRAW
+P 2 0 0 10 200 100 200 -200 N
+S 200 -200 700 100 0 0 10 f
+X COM 1 0 0 200 R 40 40 0 0 B 
+X NO 2 0 -100 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
